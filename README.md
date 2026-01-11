@@ -1,63 +1,79 @@
-<h2 align="center">Harivardhan Madagala</h2>
 <p align="center">
-Java Backend Engineer · Spring Boot · Microservices · Cloud
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harivardhan%20Madagala&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/madagalaharivardhan">LinkedIn</a> · 
-<a href="mailto:madagalahari@gmail.com">Email</a> · 
-<a href="https://github.com/HARIVARDHAN-MADAGALA">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;Kafka+%7C+Redis+%7C+AWS;Building+Scalable+APIs+%26+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/madagalaharivardhan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:madagalahari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
+  <a href="https://github.com/HARIVARDHAN-MADAGALA">
+    <img src="https://img.shields.io/github/followers/HARIVARDHAN-MADAGALA?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
 
-## About
+## 👋 About Me  
 
-I am a Java Backend Engineer with 4+ years of experience building scalable, production-grade backend systems.  
-My focus is on clean architecture, API design, distributed systems, and reliability.
-
-I currently work at TCS and am actively preparing for roles in product and engineering-driven companies.
-
----
-
-## Technical Focus
-
-- Backend: Java, Spring Boot, REST APIs, JPA / Hibernate  
-- Architecture: Microservices, API Gateway, Service Discovery  
-- Databases: MySQL, Redis  
-- Messaging: Apache Kafka  
-- Cloud & DevOps: AWS EC2, Docker, Jenkins, Git  
-- Testing: JUnit, Mockito  
+💻 Java Backend Developer with **4+ years** of experience  
+🚀 Building **high-performance APIs**, **microservices**, and **cloud-ready systems**  
+🏢 Working at **TCS** | Targeting **product-engineering roles**
 
 ---
 
-## Selected Projects
+## 🧠 My Tech World  
 
-### Food Delivery Microservices Platform  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,docker,aws,git,github,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🍔 Food Delivery Microservices  
 Spring Boot · Kafka · Redis · Eureka · MySQL  
 
-A distributed food ordering system built with independent services for orders, payments, delivery, and notifications.  
-Designed for scalability, fault tolerance, and asynchronous communication.
+✔ Event-driven microservices  
+✔ API Gateway + Service Discovery  
+✔ Redis caching  
+✔ Dockerized services  
 
 ---
 
-### Student Management System  
-Spring Boot · Docker · AWS · MySQL  
+### 🎓 Student Management System  
+Spring Boot · Docker · AWS  
 
-A cloud-hosted backend system for managing student and address data, deployed on AWS using Docker.
+✔ RESTful APIs  
+✔ JPA + MySQL  
+✔ Deployed on AWS EC2  
 
 ---
 
-## GitHub
+## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HARIVARDHAN-MADAGALA&show_icons=true&hide_title=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARIVARDHAN-MADAGALA&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIVARDHAN-MADAGALA&theme=tokyonight" />
 </p>
 
 ---
 
-## Contact
+## 📫 Let's Connect  
 
-LinkedIn: https://linkedin.com/in/madagalaharivardhan  
-Email: madagalahari@gmail.com  
+📧 **madagalahari@gmail.com**  
+🔗 **linkedin.com/in/madagalaharivardhan**
 
+<p align="center">
+  <b>⚡ “I build systems that scale.”</b>
+</p>
