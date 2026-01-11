@@ -8,13 +8,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/madagalaharivardhan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:madagalahari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/HARIVARDHAN-MADAGALA">
-    <img src="https://img.shields.io/github/followers/HARIVARDHAN-MADAGALA?label=Follow&style=social" />
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
 
