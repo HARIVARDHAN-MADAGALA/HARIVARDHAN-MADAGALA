@@ -1,122 +1,63 @@
+<h2 align="center">Harivardhan Madagala</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Harivardhan+Madagala;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Cloud;Building+Scalable+APIs+and+Distributed+Systems" />
+Java Backend Engineer · Spring Boot · Microservices · Cloud
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/madagalaharivardhan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:madagalahari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/HARIVARDHAN-MADAGALA">
-    <img src="https://img.shields.io/github/followers/HARIVARDHAN-MADAGALA?label=Follow&style=social" />
-  </a>
+<a href="https://linkedin.com/in/madagalaharivardhan">LinkedIn</a> · 
+<a href="mailto:madagalahari@gmail.com">Email</a> · 
+<a href="https://github.com/HARIVARDHAN-MADAGALA">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 Who I Am  
+## About
 
-I'm a **Java Backend Engineer with 4+ years of experience** building **high-performance, scalable backend systems** using **Spring Boot, Microservices, and Cloud-native technologies**.  
+I am a Java Backend Engineer with 4+ years of experience building scalable, production-grade backend systems.  
+My focus is on clean architecture, API design, distributed systems, and reliability.
 
-I focus on:
-- clean architecture  
-- performance optimization  
-- distributed systems  
-- production-ready code  
-
-Currently working at **TCS** and actively exploring **product-level engineering roles**.
+I currently work at TCS and am actively preparing for roles in product and engineering-driven companies.
 
 ---
 
-## 🧠 Core Expertise  
+## Technical Focus
 
-| Domain | Technologies |
-|------|-------------|
-| Backend | Java, Spring Boot, REST APIs, JPA |
-| Microservices | Eureka, API Gateway, Kafka |
-| Databases | MySQL, Redis |
-| Cloud | AWS EC2, Docker |
-| DevOps | Jenkins, GitHub Actions |
-| Testing | JUnit, Mockito |
+- Backend: Java, Spring Boot, REST APIs, JPA / Hibernate  
+- Architecture: Microservices, API Gateway, Service Discovery  
+- Databases: MySQL, Redis  
+- Messaging: Apache Kafka  
+- Cloud & DevOps: AWS EC2, Docker, Jenkins, Git  
+- Testing: JUnit, Mockito  
 
 ---
 
-## 🛠 Tech Stack  
+## Selected Projects
+
+### Food Delivery Microservices Platform  
+Spring Boot · Kafka · Redis · Eureka · MySQL  
+
+A distributed food ordering system built with independent services for orders, payments, delivery, and notifications.  
+Designed for scalability, fault tolerance, and asynchronous communication.
+
+---
+
+### Student Management System  
+Spring Boot · Docker · AWS · MySQL  
+
+A cloud-hosted backend system for managing student and address data, deployed on AWS using Docker.
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,aws,git,github,linux" />
+<img src="https://github-readme-stats.vercel.app/api?username=HARIVARDHAN-MADAGALA&show_icons=true&hide_title=true&theme=default" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## Contact
 
-### 🔥 Food Delivery Microservices Platform  
-**Spring Boot | Kafka | Redis | Eureka | MySQL**  
+LinkedIn: https://linkedin.com/in/madagalaharivardhan  
+Email: madagalahari@gmail.com  
 
-A production-grade microservices architecture simulating a real food-delivery ecosystem.
-
-✔ Order, Payment, Delivery, Notification services  
-✔ Kafka-based async communication  
-✔ Redis caching for performance  
-✔ API Gateway + Service Discovery  
-✔ Dockerized deployment  
-
----
-
-### 🔥 Student Management System (AWS Deployed)  
-**Spring Boot | Docker | AWS EC2 | MySQL**  
-
-A cloud-hosted CRUD application used to manage student and address data.
-
-✔ REST APIs  
-✔ JPA + MySQL  
-✔ Dockerized  
-✔ Hosted on AWS  
-
----
-
-## 📈 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARIVARDHAN-MADAGALA&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIVARDHAN-MADAGALA&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARIVARDHAN-MADAGALA&theme=radical" />
-</p>
-
----
-
-## 🧪 Coding & Problem Solving  
-
-I regularly practice:
-- Data Structures  
-- Algorithms  
-- System design  
-- Backend architecture  
-
-Recent focus:
-- Sliding window  
-- HashMaps  
-- Two pointers  
-- Streams  
-
----
-
-## 🤝 Let’s Connect  
-
-📧 **Email**: madagalahari@gmail.com  
-🔗 **LinkedIn**: https://linkedin.com/in/madagalaharivardhan  
-
----
-
-<p align="center">
-  <b>“I don’t just write code — I build systems.”</b>
-</p>
